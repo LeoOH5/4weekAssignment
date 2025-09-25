@@ -11,38 +11,21 @@ public class Product {
         this.productStock = productStock;
     }
 
-    public String getProductName() {
-        return productName;
-    }
-
     public void setProductName(String productName) {
         this.productName = productName;
-    }
-
-    public int getProductPrice() {
-        return productPrice;
     }
 
     public void setProductPrice(int productPrice) {
         this.productPrice = productPrice;
     }
 
-    public String getProductIntroduction() {
-        return productIntroduction;
-    }
-
     public void setProductIntroduction(String productIntroduction) {
         this.productIntroduction = productIntroduction;
-    }
-
-    public int getProductStock() {
-        return productStock;
     }
 
     public void setProductStock(int productStock) {
         this.productStock = productStock;
     }
-
 
     @Override
     public String toString() {
