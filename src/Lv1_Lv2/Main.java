@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
+package Lv1_Lv2;
+
 import java.util.Scanner;
 
 public class Main {

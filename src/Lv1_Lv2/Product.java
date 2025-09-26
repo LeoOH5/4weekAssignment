@@ -1,3 +1,5 @@
+package Lv1_Lv2;
+
 public class Product {
     private String productName;
     private int productPrice;
